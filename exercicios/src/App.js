@@ -6,7 +6,7 @@ export default class App extends React.Component {
     render() {
       return (
         <View style={styles.container}>
-            <Simples Texto='Flexível!! Mizera'/>
+            <Simples Texto='Flexível!!!'/>
         </View>
       )
     }
