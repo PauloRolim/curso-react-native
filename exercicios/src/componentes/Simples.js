@@ -7,4 +7,4 @@ import Padrao from '../estilo/Padrao'
 //}
 
 export default props => //funções Arrows são mais enxutas
-    <Text style={[Padrao.ex]}>Arrow: {props.Texto}</Text> 
+    <Text style={[Padrao.ex]}>Arrow1: {props.Texto}</Text> 
