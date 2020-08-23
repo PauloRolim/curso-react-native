@@ -8,7 +8,7 @@ export default class App extends React.Component {
       return (
         <View style={styles.container}>
             <Simples Texto='Flexível!!!'/>
-            <Parimpar numero={13}></Parimpar>
+            <Parimpar numero={14}></Parimpar>
         </View>
       )
     }
